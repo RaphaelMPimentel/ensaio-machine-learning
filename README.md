@@ -114,7 +114,7 @@ dados.
 ![regressao_treinamento]( img/train_regre.png)
 
 ### Sobre os dados de validação
-![regressao_validacao]( img/eval_regre.png)
+![regressao_validacao]( img/val_regre.png)
 
 ### Sobre os dados de teste
 ![regressao_teste]( img/test_regre.png)
